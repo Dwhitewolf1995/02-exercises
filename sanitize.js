@@ -16,3 +16,4 @@ console.log(clean);
 
 
 //Detta är bara ett exempel
+//Detta är andra exempel
