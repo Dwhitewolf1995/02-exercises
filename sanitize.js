@@ -13,3 +13,6 @@ const clean = sanitizeHtml(dirty, { allowedTags: [] })
 //Skriv ut resultatet: före och efter
 console.log(dirty);
 console.log(clean);
+
+
+//Detta är bara ett exempel
